@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Country App Retrofit</string>
+    <string name="country_name">Country Name</string>
 </resources>
