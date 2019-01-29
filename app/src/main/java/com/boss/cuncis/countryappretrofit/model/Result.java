@@ -2,7 +2,7 @@ package com.boss.cuncis.countryappretrofit.model;
 
 import com.google.gson.annotations.SerializedName;
 
-public class ResultItem{
+public class Result {
 
 	@SerializedName("name")
 	private String name;

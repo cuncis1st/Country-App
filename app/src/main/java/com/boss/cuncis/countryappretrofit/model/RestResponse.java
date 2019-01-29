@@ -6,12 +6,12 @@ import com.google.gson.annotations.SerializedName;
 public class RestResponse{
 
 	@SerializedName("result")
-	private List<ResultItem> result;
+	private List<Result> result;
 
 	@SerializedName("messages")
 	private List<String> messages;
 
-	public List<ResultItem> getResult(){
+	public List<Result> getResult(){
 		return result;
 	}
 
