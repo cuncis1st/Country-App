@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">Country App Retrofit</string>
     <string name="country_name">Country Name</string>
+    <string name="search_with_code">Search with code</string>
+    <string name="submit">Submit</string>
+    <string name="clear">Clear</string>
 </resources>
